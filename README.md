@@ -31,13 +31,13 @@ Validation: ~856 images
 
 ## 🔧 Technologies Used
 
-Python 3.x
-TensorFlow/Keras - Deep learning framework
-OpenCV - Image processing
-NumPy & Pandas - Data manipulation
-Matplotlib/Seaborn - Visualization
-Scikit-learn - Evaluation metrics
-PIL (Pillow) - Image handling
+- **Python 3.x**: Programming language
+- **TensorFlow/Keras**: Deep learning framework
+- **OpenCV**: Image processing
+- **NumPy & Pandas**: Data manipulation
+- **Matplotlib/Seaborn**: Visualization
+- **Scikit-learn**: Evaluation metrics
+- **PIL (Pillow)**: Image handling
 
 ### 🏗️ Model Architectures
 #### 1. Baseline CNN Model
